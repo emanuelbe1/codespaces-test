@@ -11,5 +11,5 @@ Uso de disco o tamaño de archivo:
 <ul>
 <li>df -h</li>
 <li>du sh</li>
-
+</ul>
 
