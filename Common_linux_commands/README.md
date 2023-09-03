@@ -34,6 +34,8 @@ ver archivos:
 <li>less /etc/passwd</li>
 <li>cat /etc/passwd</li>
 </ul>
+conteo de lineas
+<li>wc -l /etc/passwd</li>
 
 </ul>
 
