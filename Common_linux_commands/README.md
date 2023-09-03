@@ -28,5 +28,12 @@ Usando la terminal o shell:
 <li>ls -lah: muestra información sobre los permisos</li>
 <li>cd /tmp ||| cd ~ : moverse a través de directorios</li>
 <li> which python: muestra la ubicación del directorio donde está python</li>
+
+ver archivos:
+<ul>
+<li>less /etc/passwd</li>
+<li>cat /etc/passwd</li>
+</ul>
+
 </ul>
 
