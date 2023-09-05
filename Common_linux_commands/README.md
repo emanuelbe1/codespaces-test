@@ -49,6 +49,12 @@
 <li>mkdir : Creación de nuevo directorio</li>
 <li>rm -rf : elimina directorios y archivos de manera recursiva y forzada</li>
 <li>mkdir -p mi_directorio/nuevo_subdirectorio : Crea directorios de manera recursiva, incluyendo directorios padres. </li>
+</ul>
 
 
+<b>Modificando procesos</b>
+<ul>
+<li>ps</li>
+<li>.sleeper.sh &</li>
+<li>fg 1</li>
 </ul>
